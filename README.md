@@ -29,8 +29,9 @@
 * Intellij
 * Astah
 ## Others
-* SCRUM
+* Scrum
 * SOLID
+* UML
 
 
 <!--
