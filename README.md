@@ -5,13 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkogoluza" alt="darkogoluza" /></a> </p>
 
-- 🔭 I’m currently working on [Semester project (photoguard)](https://github.com/DeadlineGods/sep-3)
-
-- 🌱 I’m currently learning **.net, distributed systems**
-
-- 👨‍💻 All of my projects are available at [https://www.darko-goluza.com/](https://www.darko-goluza.com/)
-
-- 💬 Ask me about **C#, WebApi, Blazor, JavaScript, React, NextJS ...**
+- 👨‍💻 All of my projects are available at [https://www.darkogoluza.com/](https://www.darkogoluza.com/)
 
 - 📫 How to reach me **darkogoluza@gmail.com**
 
